@@ -1,0 +1,11 @@
+C:\Users\PoG\Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 1\grafik2chart\grafik2chart\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PoG\Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 1\grafik2chart\grafik2chart\obj\x86\Debug\grafik2chart.Form1.resources
+C:\Users\PoG\Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 1\grafik2chart\grafik2chart\obj\x86\Debug\grafik2chart.Properties.Resources.resources
+C:\Users\PoG\Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 1\grafik2chart\grafik2chart\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\PoG\Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 1\grafik2chart\grafik2chart\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\PoG\Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 1\grafik2chart\grafik2chart\bin\Debug\grafik2chart.exe
+C:\Users\PoG\Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 1\grafik2chart\grafik2chart\bin\Debug\grafik2chart.pdb
+C:\Users\PoG\Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 1\grafik2chart\grafik2chart\obj\x86\Debug\grafik2chart.exe
+C:\Users\PoG\Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 1\grafik2chart\grafik2chart\obj\x86\Debug\grafik2chart.pdb
+C:\Users\PoG\Documents\Visual Studio 2010\Projects\grafik2chart\grafik2chart\obj\x86\Debug\grafik2chart.exe
+C:\Users\PoG\Documents\Visual Studio 2010\Projects\grafik2chart\grafik2chart\obj\x86\Debug\grafik2chart.pdb
